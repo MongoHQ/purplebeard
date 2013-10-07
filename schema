@@ -1,0 +1,17 @@
+
+{
+   "shipCrew": [
+      "bellman",
+      "baker",
+      "bosun",
+      "worstMate",
+      "_id"
+   ], 
+   "galleyInventory" : [
+      "_id",
+      "grog",
+      "rum",
+      "edamame",
+      "barnacles"
+   ]
+}

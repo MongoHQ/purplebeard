@@ -1,0 +1,1 @@
+ls purple*[0-9] | time parallel --gnu  python scan.py "{}"
